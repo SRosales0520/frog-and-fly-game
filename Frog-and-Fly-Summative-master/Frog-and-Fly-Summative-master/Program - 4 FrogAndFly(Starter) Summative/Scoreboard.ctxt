@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Scoreboard
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Scoreboard\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Scoreboard()
+comment1.text=\r\n\ Scoreboard()\ sets\ the\ points\ value\ to\ 0,\ creates\ a\ new\ greenfootimage\ \r\n\ called\ img,\ sets\ the\ font\ to\ myFont,\ draws\ a\ string\ that\ says\ "score\:",\ \r\n\ and\ then\ draws\ img.\r\n\ \r\n\ @return\ none\ there\ is\ no\ parameters\r\n\ @param\ there\ is\ no\ parameters\r\n
+comment2.params=
+comment2.target=void\ addToScore()
+comment2.text=\r\n\ addToScore\ increases\ the\ points\ variable\ by\ one,\ draws\ "img",\r\n\ clears\ that\ img,\ and\ then\ if\ points\ are\ less\ than\ 1000\ it\ draws\ the\ score\r\n\ \r\n\ @return\ none\ there\ is\ no\ return\r\n\ @param\ there\ is\ no\ parameters\r\n
+numComments=3

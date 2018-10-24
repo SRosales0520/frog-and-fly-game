@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Beach
+comment0.text=\r\n\ 5\ marks\r\n
+comment1.params=
+comment1.target=Beach()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ act()\ runs\ when\ you\ press\ the\ run\ or\ act\ button\ and\ adds\ ten\ peices\ of\r\n\ food\ if\ ten\ food\ peices\ have\ already\ been\ eaten\r\n\ \r\n\ @return\ nothing\ does\ not\ return\ anything\r\n\ @param\ there\ are\ no\ paramaters\r\n
+comment3.params=n
+comment3.target=void\ addFood(int)
+comment3.text=\r\n\ Adds\ n\ Food\ objects\ to\ the\ world\r\n\ \r\n\ @return\ nothing\ does\ not\ return\ anything\r\n\ @param\ int\ n\ is\ the\ parameter\ to\ tell\ the\ code\ how\ much\ food\ you\ want\r\n
+comment4.params=
+comment4.target=void\ addFly()
+comment4.text=\r\n\ addFly()\ adds\ a\ fly\ at\ a\ random\ place\ on\ the\ screen\r\n\ \r\n\ @return\ nothing\ does\ not\ return\ anything\r\n\ @param\ there\ are\ no\ paramaters\r\n
+comment5.params=
+comment5.target=void\ addFrog()
+comment5.text=\r\n\ addFrog()\ adds\ a\ new\ frog\ in\ the\ middle\ of\ the\ world\r\n\ \r\n\ @return\ nothing\ does\ not\ return\ anything\r\n\ @param\ there\ are\ no\ paramaters\r\n
+comment6.params=
+comment6.target=void\ update()
+comment6.text=\r\n\ update()\ updates\ the\ score\ for\ the\ scoreboard\ by\ calling\ on\ the\ addToScore\ method\r\n\ \r\n@return\ none\ there\ is\ nothing\ returned\ \r\n@param\ there\ are\ no\ paramaters\r\n
+numComments=7

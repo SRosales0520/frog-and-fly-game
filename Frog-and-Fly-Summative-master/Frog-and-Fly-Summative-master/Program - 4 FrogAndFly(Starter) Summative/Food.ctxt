@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Food
+comment1.params=
+comment1.target=Food()
+comment1.text=\r\n\ Food()\ creates\ an\ integer\ caled\ foodType\ that\ stores\ a\ random\ number\r\n\ between\ 0\ to\ 5.\ it\ then\ asks\ if\ what\ the\ foodType\ number\ is\ and\ displays\ \r\n\ the\ fruit\ image\ associated\ with\ that\ number.\r\n\ \r\n\ @return\ none\ there\ is\ no\ return\r\n\ @param\ there\ is\ no\ parameters\r\n
+numComments=2
